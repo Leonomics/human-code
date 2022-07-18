@@ -20,4 +20,4 @@ variabili e oggetti:
         -WHILE "numero di posti a tavola" è maggiore di "numero commensali" allora si toglie un posto. Quando "numero di posti a tavola" è uguale a "numero commensali" allora FINE.
 
 
-L'esecizio partiva dal presupposto che manca un posto quindi si verificherà il secondo SE.
+L'esercizio partiva dal presupposto che manca un posto quindi si verificherà il secondo SE.
